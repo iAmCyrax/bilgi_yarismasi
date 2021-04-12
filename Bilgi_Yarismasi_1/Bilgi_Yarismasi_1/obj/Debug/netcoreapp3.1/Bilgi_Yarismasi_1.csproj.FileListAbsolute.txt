@@ -1,0 +1,16 @@
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.exe
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.deps.json
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.runtimeconfig.json
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.runtimeconfig.dev.json
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.dll
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.pdb
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.csprojAssemblyReference.cache
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.Form1.resources
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.Properties.Resources.resources
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.csproj.GenerateResource.cache
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.AssemblyInfoInputs.cache
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.AssemblyInfo.cs
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.csproj.CoreCompileInputs.cache
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.dll
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.pdb
+C:\Users\ST\source\repos\Bilgi_Yarismasi_1\Bilgi_Yarismasi_1\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi_1.genruntimeconfig.cache
